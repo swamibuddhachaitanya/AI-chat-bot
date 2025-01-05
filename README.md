@@ -1,4 +1,4 @@
-# Document Q&A Chatbot with LangChain and Gemini
+# Document Q&A Chatbot with LangChain, Gemini & VectorStore
 
 An intelligent document chatbot that leverages Google's Gemini AI and LangChain to provide accurate answers from your PDF documents. Built with modern AI tools including Chroma vector store for efficient document retrieval.
 
