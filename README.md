@@ -27,7 +27,7 @@ source langchain_env/bin/activate  # On Windows: .\langchain_env\Scripts\activat
 
 3. Install dependencies:
 ```bash
-pip install langchain langchain-google-genai langchain-community langchain-chroma chromadb gradio python-dotenv
+pip install -r requirements.txt
 ```
 
 4. Create a `.env` file in the project root:
