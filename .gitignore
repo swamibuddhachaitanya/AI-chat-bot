@@ -4,8 +4,6 @@
 # Ignore Chroma vector store data
 chroma_data/
 
-# Ignore PDF documents
-documents/
 
 # Ignore virtual environment folder
 langchain_env/
